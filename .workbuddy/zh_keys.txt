@@ -1,0 +1,1192 @@
+ (click to expand)
+ Compaction 
+ [retrying 
+ [正在重试 
+ until KZCode is restarted.
+$ 
+(API key)
+(ChatGPT Plus/Pro or API key)
+(ChatGPT Plus/Pro 或 API key)
+(Favorite)
+(Recommended)
+(new working copy)
+,
+.
+/
+/connect
+@opencode-ai/core/util/which
+A fatal error occurred!
+API key
+API 密钥
+Access external directory
+Add {highlight}$schema{/highlight} to your config for autocomplete in your editor
+Add {highlight}.md{/highlight} files to {highlight}.opencode/agents/{/highlight} for specialized AI personas
+Add {highlight}.md{/highlight} files to {highlight}.opencode/commands/{/highlight} to define reusable custom prompts
+Add {highlight}.ts{/highlight} files to {highlight}.opencode/plugins/{/highlight} for event hooks
+Agent
+Agent cycle
+Agent cycle reverse
+Allow always
+Allow once
+Always allow
+An unknown error has occurred
+Are you sure you want to restore the reverted messages?
+Are you sure you want to share it?
+Ask anything... 
+Authorization code
+Background subagents
+Background synchronous subagents
+Backspace in input
+Call tool
+Cancel
+Cancel permission rejection
+Change the workspace for the session
+Choose from all workspaces
+Choose workspace
+Clear editor context
+Clear input field
+Clear prompt
+Click to collapse
+Click to expand
+Close diff viewer
+Close help
+Code
+Collapse diff viewer item
+Collapse thinking
+Comment {highlight}/oc{/highlight} on PR code lines for targeted code reviews
+Comment {highlight}/opencode fix this{/highlight} on issues to auto-create PRs
+Commit your project's {highlight}AGENTS.md{/highlight} file to Git for team sharing
+Compact session
+Compact the session
+Complete autocomplete item
+Configuration is invalid
+Configure local or remote MCP servers in the {highlight}mcp{/highlight} config section
+Configure per-agent permissions for {highlight}edit{/highlight}, {highlight}bash{/highlight}, and {highlight}webfetch{/highlight} tools
+Configure {highlight}model{/highlight} in config to set your default model
+Configure {highlight}steps{/highlight} to limit agentic iterations per request
+Confirm
+Confirm Redo
+Confirm permission rejection
+Connect a provider
+Connect a provider to send prompts
+Connect a provider to summarize this session
+Connect from 75+ providers to use other models, including Claude, GPT, Gemini etc
+Connect provider
+Connected
+Continue after repeated failures
+Copied to clipboard
+Copied worktree path
+Copy
+Copy issue URL (exception info pre-filled)
+Copy last assistant message
+Copy message
+Copy provider code
+Copy session transcript
+Copy share link
+Copy worktree path
+Create JSON theme files in {highlight}.opencode/themes/{/highlight} directory
+Create a new session
+Create a plugin to prevent KZCode from reading sensitive files
+Create {highlight}.ts{/highlight} files in {highlight}.opencode/tools/{/highlight} to define new LLM tools
+Create {highlight}opencode.json{/highlight} for server settings and {highlight}tui.json{/highlight} for TUI settings
+Creating 
+Creating a session failed. Open console for more details.
+Custom provider
+Cycle model variants
+Default
+Define custom formatter commands with file extensions in config
+Delete character in input
+Delete line in input
+Delete project copy
+Delete session
+Delete stash entry
+Delete to end of line in input
+Delete to start of line in input
+Delete word backward in input
+Delete word forward in input
+Deleting...
+Disable animations
+Disable code concealment
+Disable diff wrapping
+Disable file context
+Disable paste summary
+Disable session directory filtering
+Disable terminal title
+Disabled
+Disabled in configuration
+Drag and drop images or PDFs into the terminal to add them as context
+Edit
+Enable animations
+Enable code concealment
+Enable diff wrapping
+Enable file context
+Enable paste summary
+Enable session directory filtering
+Enable terminal title
+Enable {highlight}scroll_acceleration{/highlight} in {highlight}tui.json{/highlight} for smooth macOS-style scrolling
+Enabled
+Existing Workspace
+Exit
+Exit shell mode
+Exit the app
+Exit the application
+Expand all diff viewer folders
+Expand diff viewer item
+Expand thinking
+Export session to editor
+Export session transcript
+Failed to copy URL to clipboard
+Failed to copy session transcript
+Failed to copy to clipboard
+Failed to create workspace
+Failed to delete session
+Failed to delete workspace
+Failed to fork session
+Failed to load workspace adapters
+Failed to send prompt
+Failed to share session
+Failed to unshare session
+Failed to warp session
+Favorite
+Favorite cycle
+Favorite cycle reverse
+Favorites
+Finishing startup...
+First item
+First message
+Fix a TODO in the codebase
+Fix broken tests
+Fork
+Fork session
+Fork session from message
+Formatters
+Free
+Gemini 目前太火爆了
+Getting started
+Glob
+Go to
+Go to child session
+Go to first child session
+Go to next child session
+Go to parent session
+Go to previous child session
+Grep
+Half page down
+Half page up
+Help
+Hide autocomplete
+Hide generic tool output
+Hide sidebar
+Hide timestamps
+Hide tool details
+Insert newline in input
+Install plugin
+Install plugin from plugin dialog
+Interrupt current session
+Interrupt session
+Invalid code
+Jump to first which-key binding
+Jump to last user message
+Jump to last which-key binding
+Jump to message
+Jump to next diff file
+Jump to next diff hunk
+Jump to previous diff file
+Jump to previous diff hunk
+KZCode includes free models so you can start immediately.
+KZCode 内置免费模型，即刻开始使用。
+LSP Servers
+LSP 服务器
+Last item
+Last message
+Leader key for keybind combinations
+Line down
+Line up
+List
+List MCP servers
+List agents
+List all sessions
+List available commands
+List available models
+List available themes
+List model variants
+List stashed prompts
+Loading
+Loading orgs...
+Loading plugins...
+Lock or unlock theme mode
+Lock theme mode
+Low cost subscription for everyone
+MCP
+MCP Servers
+MCP 服务器
+MCPs
+Manage queued prompts
+Manage workspaces
+Message Actions
+Message copied to clipboard!
+Model cycle
+Model cycle reverse
+Move cursor down in input
+Move cursor left in input
+Move cursor right in input
+Move cursor up in input
+Move down one page in dialog
+Move session
+Move to another project dir
+Move to end of buffer in input
+Move to end of line in input
+Move to end of visual line in input
+Move to first dialog item
+Move to last dialog item
+Move to next autocomplete item
+Move to next dialog item
+Move to previous autocomplete item
+Move to previous dialog item
+Move to start of buffer in input
+Move to start of line in input
+Move to start of visual line in input
+Move up one page in dialog
+Move word backward in input
+Move word forward in input
+Navigate to first message
+Navigate to last message
+Navigate to last user message
+Navigate to next message
+Navigate to previous message
+New project copy
+New session
+New workspace
+Next agent
+Next child session
+Next dialog action
+Next favorite model
+Next history item
+Next item
+Next message
+Next permission option
+Next prompt history
+Next recently used model
+Next which-key group
+No Formatters
+No MCP Servers
+No Plugins
+No assistant messages found
+No diff provided
+No orgs found
+No results found
+No text content found in last assistant message
+No text parts found in last assistant message
+No variants available
+None
+OAuth authorization failed. Try /connect again.
+OAuth 授权失败。请重新尝试 /connect。
+Open
+Open docs
+Open documentation
+Open editor
+Open external editor
+Open help dialog
+Open plugin manager dialog
+Open provider list from model dialog
+Open skill selector
+Or check your config (opencode.json) provider/model names
+Other
+Override any keybind in {highlight}tui.json{/highlight} via the {highlight}keybinds{/highlight} section
+Override global tool settings per agent configuration
+Page down
+Page up
+Page which-key down
+Page which-key up
+Paste
+Paste from clipboard
+Path: 
+Pattern: 
+Patterns
+Permission required
+Permission {highlight}doom_loop{/highlight} prevents infinite tool call loops
+Permission {highlight}external_directory{/highlight} protects files outside project
+Pin or unpin session in the session list
+Pinned
+Place TUI settings in {highlight}~/.config/opencode/tui.json{/highlight} for global config
+Please report an issue.
+Plugins
+Pop stashed prompt
+Popular
+Popular providers
+Press
+Previous agent
+Previous child session
+Previous dialog action
+Previous favorite model
+Previous history item
+Previous item
+Previous message
+Previous permission option
+Previous prompt history
+Previous recently used model
+Previous which-key group
+Provider
+Provider id
+Providers
+QUEUED
+Query: 
+Read
+Recent
+Redo
+Redo in input
+Redo message
+Refresh project copies
+Reject
+Reject permission
+Remove editor context
+Rename session
+Reset TUI
+Retry Error
+Revert
+Run a command... 
+Run {highlight}/compact{/highlight} to summarize long sessions near context limits
+Run {highlight}/connect{/highlight} to add API keys for 75+ supported LLM providers
+Run {highlight}/connect{/highlight} to add an AI provider and start coding
+Run {highlight}/init{/highlight} to auto-generate project rules based on your codebase
+Run {highlight}/share{/highlight} to create a public link to your conversation at opencode.ai
+Run {highlight}/unshare{/highlight} to remove a session from public access
+Run {highlight}docker run -it --rm ghcr.io/anomalyco/opencode{/highlight} for containerized use
+Run {highlight}opencode agent create{/highlight} for guided agent creation
+Run {highlight}opencode auth list{/highlight} to see all configured providers
+Run {highlight}opencode debug config{/highlight} to troubleshoot configuration
+Run {highlight}opencode github install{/highlight} to set up the GitHub workflow
+Run {highlight}opencode serve{/highlight} for headless API access to KZCode
+Run {highlight}opencode upgrade{/highlight} to update to the latest version
+Scroll messages down by half page
+Scroll messages down by one line
+Scroll messages down by one page
+Scroll messages up by half page
+Scroll messages up by one line
+Scroll messages up by one page
+Scroll which-key down
+Scroll which-key up
+Search
+Select agent
+Select all in input
+Select auth method
+Select autocomplete item
+Select down in input
+Select item
+Select left in input
+Select model
+Select permission option
+Select right in input
+Select to end of buffer in input
+Select to end of line in input
+Select to end of visual line in input
+Select to start of buffer in input
+Select to start of line in input
+Select to start of visual line in input
+Select up in input
+Select variant
+Select word backward in input
+Select word forward in input
+Session
+Session transcript copied to clipboard!
+Session unshared successfully
+Sessions
+Set agent {highlight}temperature{/highlight} from 0.0 (focused) to 1.0 (creative)
+Set any keybind to {highlight}none{/highlight} to disable it completely
+Set workspace
+Share Session
+Share URL copied to clipboard!
+Share current session
+Share session
+Shell
+Shell command
+Shell mode
+Shell 命令
+Shell 模式
+Show command palette
+Show generic tool output
+Show more diff viewer shortcuts
+Show session timeline
+Show sidebar
+Show timestamps
+Show tool details
+Skills
+Start a message with {highlight}!{/highlight} to run shell commands directly (e.g., {highlight}!ls -la{/highlight})
+Stash list
+Stash pop
+Stash prompt
+Status
+Subagent Actions
+Submit dialog prompt
+Submit input
+Submit prompt
+Submit selected dialog item
+Successfully copied
+Suspend terminal
+Switch agent
+Switch between light and dark theme mode
+Switch console organization
+Switch diff viewer focus
+Switch diff viewer source
+Switch model
+Switch model variant
+Switch org
+Switch session
+Switch theme
+Switch to dark mode
+Switch to light mode
+Switch to session in quick slot 1
+Switch to session in quick slot 2
+Switch to session in quick slot 3
+Switch to session in quick slot 4
+Switch to session in quick slot 5
+Switch to session in quick slot 6
+Switch to session in quick slot 7
+Switch to session in quick slot 8
+Switch to session in quick slot 9
+Switch to {highlight}Plan{/highlight} agent to get suggestions without making actual changes
+Switch which-key layout
+System
+Task
+Tell KZCode what to do differently
+The current model does not support any variants.
+The current session was deleted
+Themes
+Themes support dark/light variants for both modes
+Thinking
+This keeps the session running despite repeated failures.
+This only stores a credential. Configure the provider in opencode.json to use it.
+This will allow 
+This will allow the following patterns until KZCode is restarted
+Thought
+Tip
+Today
+Toggle MCP in MCP dialog
+Toggle MCPs
+Toggle animations
+Toggle code block concealment in messages
+Toggle console
+Toggle debug panel
+Toggle diff viewer file tree
+Toggle diff viewer item
+Toggle diff viewer split or unified view
+Toggle diff wrapping
+Toggle file context
+Toggle generic tool output
+Toggle message timestamps
+Toggle model favorite status
+Toggle paste summary
+Toggle permission fullscreen
+Toggle permission prompt fullscreen
+Toggle plugin
+Toggle session directory filtering
+Toggle session scrollbar
+Toggle sidebar
+Toggle single patch view
+Toggle terminal title
+Toggle thinking blocks visibility
+Toggle tips on home screen
+Toggle tool details visibility
+Toggle username display in chat via the command palette
+Toggle which-key panel
+Toggle which-key pending preview
+Tool definitions can invoke scripts written in Python, Go, etc
+Tool: 
+Try: `opencode models` to list available models
+Type {highlight}@{/highlight} followed by a filename to fuzzy search and attach files
+URL: 
+Unable to Warp Session
+Undo in input
+Undo message
+Undo previous message
+Unexpected error (unserializable)
+Unknown
+Unlock theme mode
+Unshare current session
+Unshare session
+Update Available
+Update Complete
+Update Failed
+Update failed
+Use backticks in commands to inject shell output (e.g., {highlight}`git status`{/highlight})
+Use numeric xterm color codes 0-255 in custom theme JSON
+Use plugins to send OS notifications when sessions complete
+Use the local project
+Use {highlight}$ARGUMENTS{/highlight}, {highlight}$1{/highlight}, {highlight}$2{/highlight} in custom commands for dynamic input
+Use {highlight}--format json{/highlight} for machine-readable output in scripts
+Use {highlight}--print-logs{/highlight} flag to see detailed logs in stderr
+Use {highlight}/connect{/highlight} with KZCode Zen for curated, tested models
+Use {highlight}/opencode{/highlight} in GitHub issues/PRs to trigger AI actions
+Use {highlight}/redo{/highlight} to restore previously undone messages and file changes
+Use {highlight}/rename{/highlight} to rename the current session
+Use {highlight}/review{/highlight} to review uncommitted changes, branches, or PRs
+Use {highlight}/undo{/highlight} to revert the last message and file changes
+Use {highlight}@agent-name{/highlight} in prompts to invoke specialized subagents
+Use {highlight}instructions{/highlight} in config to load additional rules files
+Use {highlight}opencode --continue{/highlight} to resume the last session
+Use {highlight}opencode run --attach{/highlight} to connect to a running server
+Use {highlight}opencode run -f file.ts{/highlight} to attach files via CLI
+Use {highlight}opencode run{/highlight} for non-interactive scripting
+Use {highlight}{env:VAR_NAME}{/highlight} syntax to reference environment variables in config
+Use {highlight}{file:path}{/highlight} to include file contents in config values
+Variant cycle
+View all providers
+View all workspaces
+View status
+Waiting for authorization...
+Warp
+WebFetch
+What is the tech stack of this project?
+Workspace
+Workspaces
+Write heap snapshot
+Writing command...
+\\n
+\n
+again to interrupt
+agent.cycle
+agents
+and enable KZCode Go
+app.exit
+attempt #
+background
+build
+cancel
+clipboardy
+command.palette.show
+commands
+confirm
+copy
+create a new session
+delete
+dialog.move_session.delete
+dialog.prompt.submit
+diff.expand_all
+diff.help
+diff.mark_reviewed
+diff.next_file
+diff.next_hunk
+diff.previous_file
+diff.previous_hunk
+diff.single_patch
+diff.switch_focus
+diff.switch_source
+diff.toggle_file_tree
+diff.toggle_view
+exit shell mode
+failed
+fullscreen
+gemini is way too hot right now
+git status
+go home
+help.show
+hide
+in 
+in a session to show or hide the sidebar panel
+in the session list to pin a session so it stays at the top
+input.newline
+input.undo
+interrupt
+interrupted
+ls -la
+message text to clipboard
+minimize
+model.cycle_recent
+model.list
+native
+new
+no response
+ok
+opencode.status
+or /redo to restore
+permission.prompt.fullscreen
+pin/unpin
+plan
+prompt.clear
+prompt.editor
+prompt.history.next
+prompt.history.previous
+prompt.paste
+pwd
+rename
+select
+session.background
+session.child.first
+session.child.next
+session.child.previous
+session.delete
+session.list
+session.new
+session.parent
+session.quick_switch.1
+session.quick_switch.9
+session.redo
+show
+skipped_version
+stash.delete
+switch
+terminal.suspend
+the subagent's session
+theme
+theme.switch
+theme_mode
+theme_mode_lock
+thinking_mode
+thinking_visibility
+tips.toggle
+to add newlines in your prompt
+to copy the assistant's last message to clipboard
+to cycle between Build and Plan agents
+to get a key
+to jump to the beginning of the conversation
+to jump to the most recent message
+to paste images from your clipboard into the prompt
+to quickly switch between recently used models
+to see all available actions and commands
+to stop the AI mid-response
+to suspend the terminal and return to your shell
+to toggle code block visibility in messages
+to undo changes in your prompt
+toggle
+undo messages and file changes
+view subagents
+when typing to clear the input field
+上一个历史项
+上一个子会话
+上一个对话框操作
+上一个快捷键组
+上一个提示词历史
+上一个收藏模型
+上一个智能体
+上一个最近使用的模型
+上一个权限选项
+上一条消息
+上一项
+下一个历史项
+下一个子会话
+下一个对话框操作
+下一个快捷键组
+下一个提示词历史
+下一个收藏模型
+下一个智能体
+下一个最近使用的模型
+下一个权限选项
+下一条消息
+下一项
+中断
+中断会话
+中断当前会话
+为每个智能体配置 {highlight}edit{/highlight}、{highlight}bash{/highlight} 和 {highlight}webfetch{/highlight} 工具的权限
+主题
+主题支持深色/浅色模式的变体
+今天
+从 75+ 个提供商连接以使用其他模型，包括 Claude、GPT、Gemini 等
+从剪贴板粘贴
+从所有工作区中选择
+从插件对话框安装插件
+从模型对话框打开提供商列表
+从消息分支会话
+代码
+以 {highlight}!{/highlight} 开头的消息可直接运行 Shell 命令（例如 {highlight}!ls -la{/highlight}）
+任务
+会话
+会话已取消分享
+会话记录已复制到剪贴板！
+使用 {highlight}--format json{/highlight} 在脚本中获取机器可读的输出
+使用 {highlight}--print-logs{/highlight} 标志在 stderr 中查看详细日志
+使用 {highlight}/connect{/highlight} 连接 KZCode Zen 以获取精选和测试过的模型
+使用 {highlight}/redo{/highlight} 恢复之前撤销的消息和文件更改
+使用 {highlight}/rename{/highlight} 重命名当前会话
+使用 {highlight}/review{/highlight} 审查未提交的更改、分支或 PR
+使用 {highlight}/undo{/highlight} 撤销上一条消息和文件更改
+使用 {highlight}opencode --continue{/highlight} 恢复上次会话
+使用 {highlight}opencode run --attach{/highlight} 连接到正在运行的服务器
+使用 {highlight}opencode run -f file.ts{/highlight} 通过 CLI 附加文件
+使用 {highlight}opencode run{/highlight} 进行非交互式脚本编写
+使用 {highlight}{env:VAR_NAME}{/highlight} 语法在配置中引用环境变量
+使用 {highlight}{file:path}{/highlight} 在配置值中包含文件内容
+使用插件在会话完成时发送操作系统通知
+使用本地项目
+修复代码库中的 TODO
+修复损坏的测试
+允许一次
+免费
+全屏
+关闭差异查看器
+关闭帮助
+其他
+再次按下以中断
+写入堆快照
+分享会话
+分享会话失败
+分享当前会话
+分享链接已复制到剪贴板！
+分支
+分支会话
+分支会话失败
+切换
+切换 MCP
+切换主题
+切换会话
+切换会话滚动条
+切换会话目录过滤
+切换侧边栏
+切换到 {highlight}Plan{/highlight} 智能体以获取建议而不进行实际更改
+切换到快速槽位 1 的会话
+切换到快速槽位 2 的会话
+切换到快速槽位 3 的会话
+切换到快速槽位 4 的会话
+切换到快速槽位 5 的会话
+切换到快速槽位 6 的会话
+切换到快速槽位 7 的会话
+切换到快速槽位 8 的会话
+切换到快速槽位 9 的会话
+切换到浅色模式
+切换到深色模式
+切换动画
+切换单补丁视图
+切换工具详情可见性
+切换差异换行
+切换差异查看器分屏/统一视图
+切换差异查看器文件树
+切换差异查看器源
+切换差异查看器焦点
+切换差异查看项
+切换快捷键面板
+切换快捷键面板布局
+切换快捷键面板待定预览
+切换思考块可见性
+切换控制台
+切换控制台组织
+切换插件
+切换文件上下文
+切换智能体
+切换权限全屏
+切换权限提示全屏
+切换模型
+切换模型变体
+切换模型收藏状态
+切换浅色/深色主题模式
+切换消息中代码块的可见性
+切换消息中的代码块隐藏
+切换消息时间戳
+切换粘贴摘要
+切换组织
+切换终端标题
+切换调试面板
+切换通用工具输出
+切换首页提示
+列出 MCP 服务器
+列出可用主题
+列出可用命令
+列出可用模型
+列出所有会话
+列出智能体
+列出暂存的提示词
+列出模型变体
+列表
+创建 {highlight}opencode.json{/highlight} 以配置服务器设置，创建 {highlight}tui.json{/highlight} 以配置 TUI 设置
+创建会话失败。请打开控制台查看更多详情。
+创建工作区失败
+创建插件以防止 KZCode 读取敏感文件
+创建新会话
+删除
+删除会话
+删除会话失败
+删除到输入框行尾
+删除到输入框行首
+删除工作区失败
+删除暂存条目
+删除输入框中的字符
+删除输入框中的行
+删除项目副本
+刷新项目副本
+加载工作区适配器失败
+压缩中
+压缩会话
+发生严重错误！
+发生未知错误
+发送提示词失败
+取出暂存
+取出暂存的提示词
+取消
+取消分享会话
+取消分享会话失败
+取消分享当前会话
+取消权限拒绝
+变体循环切换
+后台
+后台同步子智能体
+后台子智能体
+向上半页
+向上滚动一行消息
+向上滚动一页消息
+向上滚动半页消息
+向上滚动快捷键面板
+向上移动一行
+向上翻页
+向下半页
+向下滚动一行消息
+向下滚动一页消息
+向下滚动半页消息
+向下滚动快捷键面板
+向下移动一行
+向下翻页
+启用代码隐藏
+启用会话目录过滤
+启用动画
+启用差异换行
+启用文件上下文
+启用粘贴摘要
+启用终端标题
+告诉 KZCode 需要调整的地方
+固定/取消固定
+在 
+在 AI 响应中途停止
+在 Build 和 Plan 智能体之间循环切换
+在 GitHub Issue/PR 中使用 {highlight}/opencode{/highlight} 触发 AI 操作
+在 Issue 上评论 {highlight}/opencode fix this{/highlight} 以自动创建 PR
+在 MCP 对话框中切换 MCP
+在 PR 代码行上评论 {highlight}/oc{/highlight} 以进行针对性代码审查
+在 {highlight}.opencode/themes/{/highlight} 目录中创建 JSON 主题文件
+在 {highlight}.opencode/tools/{/highlight} 中创建 {highlight}.ts{/highlight} 文件以定义新的 LLM 工具
+在 {highlight}mcp{/highlight} 配置段中配置本地或远程 MCP 服务器
+在 {highlight}tui.json{/highlight} 中启用 {highlight}scroll_acceleration{/highlight} 以获得 macOS 风格的平滑滚动
+在上一条助手消息中未找到文本内容
+在上一条助手消息中未找到文本片段
+在会话中显示或隐藏侧边栏面板
+在会话列表中固定会话使其保持在顶部
+在会话列表中固定或取消固定会话
+在命令中使用反引号可注入 Shell 输出（例如 {highlight}`git status`{/highlight}）
+在对话框中向上翻页
+在对话框中向下翻页
+在提示词中使用 {highlight}@agent-name{/highlight} 调用专用子智能体
+在提示词中添加换行
+在自定义主题 JSON 中使用 0-255 的数字 xterm 颜色代码
+在自定义命令中使用 {highlight}$ARGUMENTS{/highlight}、{highlight}$1{/highlight}、{highlight}$2{/highlight} 以获取动态输入
+在输入框中全选
+在输入框中向上移动光标
+在输入框中向上选择
+在输入框中向下移动光标
+在输入框中向下选择
+在输入框中向前删除一个词
+在输入框中向前移动一个词
+在输入框中向前选择词
+在输入框中向右移动光标
+在输入框中向右选择
+在输入框中向后删除一个词
+在输入框中向后移动一个词
+在输入框中向后选择词
+在输入框中向左移动光标
+在输入框中向左选择
+在输入框中插入换行
+在输入框中撤销
+在输入框中移动到可视行尾
+在输入框中移动到可视行首
+在输入框中移动到缓冲区开头
+在输入框中移动到缓冲区末尾
+在输入框中移动到行尾
+在输入框中移动到行首
+在输入框中退格
+在输入框中选择到可视行尾
+在输入框中选择到可视行首
+在输入框中选择到缓冲区开头
+在输入框中选择到缓冲区末尾
+在输入框中选择到行尾
+在输入框中选择到行首
+在输入框中重做
+在配置中使用 {highlight}instructions{/highlight} 加载额外的规则文件
+在配置中使用文件扩展名定义自定义格式化命令
+在配置中已禁用
+在配置中添加 {highlight}$schema{/highlight} 以在编辑器中启用自动补全
+在配置中设置 {highlight}model{/highlight} 以指定默认模型
+复制
+复制会话记录
+复制会话记录失败
+复制分享链接
+复制到剪贴板失败
+复制工作树路径
+复制提供商代码
+复制最后一条助手消息
+复制消息
+复制链接到剪贴板失败
+复制问题链接（已预填异常信息）
+失败
+始终允许
+子智能体操作
+子智能体的会话
+安装插件
+完成自动补全项
+导出会话到编辑器
+导出会话失败
+导出会话记录
+将 TUI 设置放在 {highlight}~/.config/opencode/tui.json{/highlight} 中作为全局配置
+将 {highlight}.md{/highlight} 文件添加到 {highlight}.opencode/agents/{/highlight} 以创建专用 AI 角色
+将 {highlight}.md{/highlight} 文件添加到 {highlight}.opencode/commands/{/highlight} 以定义可复用的自定义提示词
+将 {highlight}.ts{/highlight} 文件添加到 {highlight}.opencode/plugins/{/highlight} 以使用事件钩子
+将任意快捷键绑定设置为 {highlight}none{/highlight} 以完全禁用
+将剪贴板中的图片粘贴到提示词中
+将助手的最后一条消息复制到剪贴板
+将图片或 PDF 拖放到终端中以将其添加为上下文
+将项目的 {highlight}AGENTS.md{/highlight} 文件提交到 Git 以便团队共享
+尝试 #
+尝试：`opencode models` 列出可用模型
+展开差异查看项
+展开思考
+展开所有差异查看文件夹
+工作区
+工具: 
+工具定义可调用用 Python、Go 等编写的脚本
+已中断
+已启用
+已固定
+已复制到剪贴板
+已复制工作树路径
+已成功复制
+已禁用
+已连接
+帮助
+并启用 KZCode Go
+当前会话已被删除
+当前模型不支持任何变体。
+循环切换模型变体
+快捷键面板向上翻页
+快捷键面板向下翻页
+快速切换最近使用的模型
+快速开始
+思考
+想法
+意外错误（不可序列化）
+或使用 /redo 恢复
+或检查配置文件 (opencode.json) 中的提供商/模型名称
+打开
+打开外部编辑器
+打开帮助对话框
+打开技能选择器
+打开插件管理对话框
+打开文档
+打开编辑器
+技能
+折叠差异查看项
+折叠思考
+拒绝
+拒绝权限
+挂起终端
+挂起终端并返回到 Shell
+按下
+按智能体配置覆盖全局工具设置
+授权码
+排队中
+提交对话框提示词
+提交提示词
+提交输入
+提交选中的对话框项
+提供商
+提供商 ID
+提示
+插件
+搜索
+撤销上一条消息
+撤销提示词中的更改
+撤销消息
+撤销消息和文件更改
+收藏
+收藏模型反向循环切换
+收藏模型循环切换
+新建
+新建会话
+新建工作区
+新建项目副本
+无
+无 MCP 服务器
+无可用变体
+无响应
+无插件
+无效代码
+无格式化工具
+无法转接会话
+显示
+显示会话时间线
+显示侧边栏
+显示命令面板
+显示工具详情
+显示时间戳
+显示更多差异查看器快捷键
+显示通用工具输出
+智能体
+智能体反向循环切换
+智能体循环切换
+暂存列表
+暂存提示词
+更改会话的工作区
+更新失败
+更新完成
+最后一条消息
+最后一项
+最小化
+最近
+有可用更新
+未找到助手消息
+未找到组织
+未找到结果
+未提供差异
+未知
+权限 {highlight}doom_loop{/highlight} 可防止无限工具调用循环
+权限 {highlight}external_directory{/highlight} 可保护项目外部的文件
+查看子智能体
+查看所有可用操作和命令
+查看所有工作区
+查看所有提供商
+查看状态
+查询: 
+格式化工具
+模型反向循环切换
+模型循环切换
+模式
+模式: 
+正在写入命令...
+正在创建 
+正在删除...
+正在加载
+正在加载插件...
+正在加载组织...
+正在完成启动...
+消息已复制到剪贴板！
+消息操作
+消息文本到剪贴板
+清除提示词
+清除编辑器上下文
+清除输入框
+点击展开
+点击折叠
+热门
+热门提供商
+状态
+现有工作区
+直到 KZCode 重启。
+确定
+确定要分享此会话吗？
+确定要恢复已撤销的消息吗？
+确认
+确认权限拒绝
+确认重做
+禁用代码隐藏
+禁用会话目录过滤
+禁用动画
+禁用差异换行
+禁用文件上下文
+禁用粘贴摘要
+禁用终端标题
+移动会话
+移动到上一个对话框项
+移动到上一个自动补全项
+移动到下一个对话框项
+移动到下一个自动补全项
+移动到其他项目目录
+移动到最后一个对话框项
+移动到第一个对话框项
+移除编辑器上下文
+第一条消息
+第一项
+等待授权...
+管理工作区
+管理排队中的提示词
+粘贴
+系统
+组合键的前导键
+编辑
+自定义提供商
+获取密钥
+解锁主题模式
+设置工作区
+设置智能体 {highlight}temperature{/highlight} 从 0.0（专注）到 1.0（创意）
+访问外部目录
+请报告此问题。
+调用工具
+路径: 
+跳转到上一个差异块
+跳转到上一个差异文件
+跳转到上一条消息
+跳转到下一个差异块
+跳转到下一个差异文件
+跳转到下一条消息
+跳转到对话开头
+跳转到最后一个快捷键绑定
+跳转到最后一条消息
+跳转到最后一条用户消息
+跳转到最新消息
+跳转到消息
+跳转到第一个快捷键绑定
+跳转到第一条消息
+转到
+转到上一个子会话
+转到下一个子会话
+转到子会话
+转到父会话
+转到第一个子会话
+转接
+转接会话失败
+输入 {highlight}@{/highlight} 后跟文件名以模糊搜索并附加文件
+输入时清除输入框
+运行 {highlight}/compact{/highlight} 总结接近上下文限制的长会话
+运行 {highlight}/connect{/highlight} 为 75+ 个支持的 LLM 提供商添加 API 密钥
+运行 {highlight}/connect{/highlight} 添加 AI 提供商并开始编码
+运行 {highlight}/init{/highlight} 根据代码库自动生成项目规则
+运行 {highlight}/share{/highlight} 在 opencode.ai 上创建对话的公开链接
+运行 {highlight}/unshare{/highlight} 取消会话的公开访问
+运行 {highlight}docker run -it --rm ghcr.io/anomalyco/opencode{/highlight} 以容器化方式使用
+运行 {highlight}opencode agent create{/highlight} 以引导方式创建智能体
+运行 {highlight}opencode auth list{/highlight} 查看所有已配置的提供商
+运行 {highlight}opencode debug config{/highlight} 以排查配置问题
+运行 {highlight}opencode github install{/highlight} 以设置 GitHub 工作流
+运行 {highlight}opencode serve{/highlight} 以无头方式通过 API 访问 KZCode
+运行 {highlight}opencode upgrade{/highlight} 更新到最新版本
+运行命令... 
+返回首页
+还原
+这个项目的技术栈是什么？
+这仅存储凭据。在 opencode.json 中配置提供商以使用它。
+这会在重复失败后保持会话运行。
+这将允许 
+这将允许以下模式，直到 KZCode 重启
+连接提供商
+连接提供商以发送提示词
+连接提供商以总结此会话
+退出
+退出 Shell 模式
+退出应用
+适合所有人的低成本订阅
+选择
+选择变体
+选择工作区
+选择智能体
+选择权限选项
+选择模型
+选择自动补全项
+选择认证方式
+选择项目
+通过 {highlight}keybinds{/highlight} 段在 {highlight}tui.json{/highlight} 中覆盖任意快捷键绑定
+通过命令面板切换聊天中用户名的显示
+配置 {highlight}steps{/highlight} 以限制每次请求的智能体迭代次数
+配置无效
+重做
+重做消息
+重命名
+重命名会话
+重复失败后继续
+重置 TUI
+重试错误
+锁定/解锁主题模式
+锁定主题模式
+随意提问... 
+隐藏
+隐藏侧边栏
+隐藏工具详情
+隐藏时间戳
+隐藏自动补全
+隐藏通用工具输出
+需要权限
+默认
+（推荐）
+（新工作副本）
+（点击展开）
