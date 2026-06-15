@@ -1,0 +1,157 @@
+---
+title: 引用
+description: 將本地目錄和 Git 儲存庫新增為專案引用。
+---
+
+引用讓 OpenCode 能夠存取目前專案之外的目錄。您可以藉助引用，在工作時使用文件、共用程式庫、範例或其他儲存庫。
+
+引用透過別名在 `opencode.json` 或 `opencode.jsonc` 中進行設定。
+
+```jsonc title="opencode.jsonc"
+{
+  "$schema": "https://opencode.ai/config.json",
+  "references": {
+    "docs": {
+      "path": "../product-docs",
+      "description": "用於了解產品行為和文件規範",
+    },
+    "sdk": {
+      "repository": "anomalyco/opencode-sdk-js",
+      "branch": "main",
+      "description": "用於了解 JavaScript SDK 的實作細節",
+    },
+  },
+}
+```
+
+---
+
+## 本地目錄
+
+使用 `path` 引用一個本地目錄。
+
+```jsonc title="opencode.jsonc"
+{
+  "references": {
+    "docs": {
+      "path": "../docs",
+    },
+  },
+}
+```
+
+路徑可以是：
+
+- 相對於定義該引用的設定檔的路徑
+- 絕對路徑，例如 `/home/user/docs`
+- 相對於您的主目錄的路徑，例如 `~/docs`
+
+您也可以使用字串簡寫形式：
+
+```jsonc title="opencode.jsonc"
+{
+  "references": {
+    "docs": "../docs",
+  },
+}
+```
+
+---
+
+## Git 儲存庫
+
+使用 `repository` 引用一個 Git 儲存庫。OpenCode 會在其本地儲存庫快取中實體化該儲存庫，並將檢出的原始碼作為引用目錄提供給您使用。
+
+```jsonc title="opencode.jsonc"
+{
+  "references": {
+    "effect": {
+      "repository": "Effect-TS/effect",
+      "branch": "main",
+    },
+  },
+}
+```
+
+`repository` 接受 Git URL、host/path 形式的引用，以及 GitHub `owner/repo` 簡寫形式。可選的 `branch` 欄位用於選擇某個分支或 ref。如果不指定 `branch`，OpenCode 會使用該儲存庫的預設分支。
+
+當您不需要指定分支、描述或其他選項時，可以使用字串簡寫形式：
+
+```jsonc title="opencode.jsonc"
+{
+  "references": {
+    "effect": "Effect-TS/effect",
+  },
+}
+```
+
+:::note
+Git 引用會以非同步方式重新整理。新設定的儲存庫可能需要稍等片刻才能完成複製或更新。
+:::
+
+---
+
+## 描述用途
+
+新增 `description` 以說明代理應在何時使用某個引用。
+
+```jsonc title="opencode.jsonc"
+{
+  "references": {
+    "design-system": {
+      "path": "../design-system",
+      "description": "在實作 UI 元件或設計權杖時使用",
+    },
+  },
+}
+```
+
+OpenCode 會將帶有描述的引用納入代理上下文。描述應當簡短且足夠具體，以便區分內容相似的引用。沒有描述的引用仍可透過自動完成和直接使用來存取，但不會主動告知代理。
+
+---
+
+## 隱藏自動完成項目
+
+將 `hidden` 設為 `true`，可在 TUI 的 `@` 自動完成中省略某個引用。
+
+```jsonc title="opencode.jsonc"
+{
+  "references": {
+    "internal": {
+      "path": "../internal",
+      "description": "用於了解內部實作細節",
+      "hidden": true,
+    },
+  },
+}
+```
+
+`hidden` 僅影響自動完成。帶有描述的隱藏引用仍會被納入代理上下文。
+
+---
+
+## 使用引用
+
+已設定的引用會出現在 TUI 的 `@` 自動完成中。輸入 `@別名` 可附加該引用的根目錄，輸入 `@別名/` 可在其內部搜尋檔案。
+
+```text
+將此實作與 @sdk/src/client.ts 進行比較
+```
+
+代理還會在其系統上下文中收到已設定且帶有描述的引用的解析路徑和描述，因此在相關時，代理無需您手動附加即可查看該引用。
+
+OpenCode 會自動放行引用目錄，使其通過外部目錄權限邊界。常規的工具權限仍然適用；例如，無法編輯檔案的代理不會因為某個目錄被設定為引用就獲得編輯權限。
+
+---
+
+## 設定欄位
+
+| 欄位          | 本地 | Git | 說明                                             |
+| ------------- | ---- | --- | ------------------------------------------------ |
+| `path`        | 是   | 否  | 本地引用目錄                                     |
+| `repository`  | 否   | 是  | Git URL、host/path 或 GitHub `owner/repo` 值     |
+| `branch`      | 否   | 是  | 可選的 Git 分支或 ref                            |
+| `description` | 是   | 是  | 用於說明何時使用該引用的指引                     |
+| `hidden`      | 是   | 是  | 在 TUI 的 `@` 自動完成中隱藏該引用               |
+
+引用別名不能為空，也不能包含 `/`、空白字元、反引號或逗號。
